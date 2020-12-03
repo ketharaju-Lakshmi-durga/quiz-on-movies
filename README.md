@@ -1,2 +1,2 @@
 Hii
-This if the CLI based application using reactjs,chalk for styling the content
+This is the CLI based application using reactjs,chalk for styling the content
